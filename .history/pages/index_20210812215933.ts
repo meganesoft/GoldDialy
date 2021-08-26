@@ -1,0 +1,1 @@
+export { PageButton } from '../components/atoms/PageButton.vue';

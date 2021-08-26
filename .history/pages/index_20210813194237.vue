@@ -1,0 +1,10 @@
+<template>
+    <page-button></page-button>
+</template>
+
+<script lang="ts">
+import { PageButton } from '/components/atoms/PageButton.vue'
+export default {
+    
+}
+</script>
